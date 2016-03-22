@@ -1,0 +1,7 @@
+[package]
+name = "nlpr"
+version = "0.1.0"
+authors = ["Andres Borek <andres.b.dev@gmail.com>"]
+
+[dependencies]
+regex = "*"
