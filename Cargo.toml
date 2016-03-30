@@ -2,6 +2,16 @@
 name = "nlpr"
 version = "0.1.0"
 authors = ["Andres Borek <andres.b.dev@gmail.com>"]
+license = "MIT"
+description = """
+Markov classifier
+"""
+
+keywords = ["markov", "classifier", "machine-learning"]
 
 [dependencies]
 regex = "*"
+rustc-serialize = "0.3"
+
+[dev-dependencies]
+xmlJSON = "0.2.0"

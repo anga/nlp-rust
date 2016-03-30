@@ -1,10 +1,4 @@
 
 extern crate regex;
+extern crate rustc_serialize;
 pub mod models;
-
-#[cfg(test)]
-mod test {
-    #[test]
-    fn it_works() {
-    }
-}
